@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 Estudando JavaScript , NodeJs , HTML, CSS, Git
+- 🌱 Estudando JavaScript , NodeJs , Git, SQL
 - 😄 Pronouns: ele/dele
 - <div> 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaylonHani&show_icons=true&theme=radical)
