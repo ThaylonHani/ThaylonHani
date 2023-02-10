@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 Estudando JavaScript, Typescript , NodeJs , React , Python e jQuery
+- 🌱 Estudando JavaScript, Typescript , NodeJs , React , Python , jQuery e next.js
 - 😄 Pronouns: ele/dele
 -  <div> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaylonHani&show_icons=true&theme=radical)
