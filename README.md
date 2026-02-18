@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🤓 Conhecimentos: Tenho habilidades em Javascript, Typescript, Next.js, React, Angular, NodeJs, PHP e C. Atualmente estou focado em projetos Angular e Typescript, porém já tive experiências em projetos pessoais com Next e Javascript.
+- 🤓 Conhecimentos: Tenho habilidades em Javascript, Typescript, Next.js, React, Angular, NodeJs, PHP, Laravel. Atualmente estou focado em projetos Laravel e Angular, porém já tive experiências em projetos pessoais com Next e Javascript.
   <div> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaylonHani&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaylonHani&layout=compact&theme=radical)](https://github.com/ThaylonHani/github-readme-stats&theme=radical)
